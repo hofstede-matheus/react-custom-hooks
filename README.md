@@ -1,2 +1,2 @@
 # react-custom-hooks
-A set of custom hook to help React Development
+A set of custom hooks to help React Development
